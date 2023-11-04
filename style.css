@@ -1,22 +1,23 @@
 h1 {
   font-family: helvetica;
-
+  color: white;
 
 }
 
 p {
   font-family: helvetica;
-
+  color: white;
 }
 
 h4 {
   font-family: helvetica;
-
+  color: white;
 }
 
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
 }
 
 .topnav {
@@ -64,4 +65,5 @@ body {
 image {
   float: center;
   border-radius: 25px;
+  border-color: white;
 }
